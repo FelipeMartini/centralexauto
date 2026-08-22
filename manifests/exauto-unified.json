@@ -1,7 +1,9 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0-dev",
-  "apkUrl": "https://github.com/felipe/CentralEXAuto/raw/main/apks/app-privileged-debug.apk",
-  "sha256": "PENDENTE_GERAR_APOS_BUILD",
-  "changelog": "Build inicial unificado com paridade total Sapo."
+    "apkUrl":  "https://github.com/felipe/CentralEXAuto/raw/main/apks/app-privileged-debug.apk",
+    "changelog":  "Build inicial unificado com paridade total Sapo.",
+    "versionCode":  568,
+    "versionName":  "2.15.6",
+    "sha256":  "66a76f8e84c2b27bbca239eb5f87b95823bf488795b65cfdca1815f1989e2151",
+    "sizeBytes":  63131,
+    "updatedAt":  "2026-08-22T17:35:19Z"
 }
