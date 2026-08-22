@@ -1,6 +1,8 @@
 {
-  "versionCode": 411,
-  "versionName": "2.12.59",
-  "apkUrl": "https://raw.githubusercontent.com/swimapps/CentralEXAuto/main/CentralEXAuto-geely-platform-signed.apk",
-  "sha256": "53fa6b0602686f34c586050dea85f3da580be49f3990fc2f3f9b55861bb9f453"
+    "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/CentralEXAuto/main/apks/CentralEXAuto-geely-platform-signed.apk",
+    "versionCode":  568,
+    "versionName":  "2.15.6",
+    "sha256":  "66a76f8e84c2b27bbca239eb5f87b95823bf488795b65cfdca1815f1989e2151",
+    "sizeBytes":  63131,
+    "updatedAt":  "2026-08-22T17:52:18Z"
 }
