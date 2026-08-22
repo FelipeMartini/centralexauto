@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0-dev",
+  "apkUrl": "https://github.com/felipe/CentralEXAuto/raw/main/apks/app-privileged-debug.apk",
+  "sha256": "PENDENTE_GERAR_APOS_BUILD",
+  "changelog": "Build inicial unificado com paridade total Sapo."
+}

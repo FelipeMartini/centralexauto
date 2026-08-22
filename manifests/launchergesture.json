@@ -1,0 +1,7 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0-felipe",
+  "apkUrl": "https://github.com/felipe/CentralEXAuto/raw/main/apks/launcher-gesture.apk",
+  "sha256": "PENDENTE_GERAR",
+  "targetPackage": "com.flyme.auto.launcher"
+}
