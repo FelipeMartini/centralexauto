@@ -1,8 +1,8 @@
 {
-    "apkUrl":  "https://raw.githubusercontent.com/swimapps/CentralEXAuto/main/EXSapoCentral.apk",
-    "versionCode":  568,
-    "versionName":  "2.15.6",
-    "sha256":  "9fbb8c8701e5143c912ef99e931e81be27781c577832322c4def1c9925495ac9",
-    "sizeBytes":  14790164,
-    "updatedAt":  "2026-08-23T12:06:42Z"
+    "apkUrl": "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
+    "versionCode": 584,
+    "versionName": "2.17.2",
+    "sha256": "c56aa6a524ec2bae07c55c9df1382f012af3003be8405c71e662758139d66724",
+    "sizeBytes": 14747818,
+    "updatedAt": "2026-08-23T14:17:06Z"
 }
