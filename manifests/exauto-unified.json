@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "changelog":  "Build oficial unificado com paridade total Sapo v2.17.2, suporte ConnAdaptor 1111/1114 e correÃƒÂ§ÃƒÂµes CarPlay.",
+    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo: VHAL window/door crack relief, recirculation guard, PiP câmera traseira na seta, AEB restore, travar portas com velocidade, sub-abas completas (Barra, Tela, Clima, Câmera), desktop status bar com odômetro de viagem e odômetro total.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "391699dee7c4b38287023d98efb157a4660275eb54e639b781591468862a9afb",
-    "sizeBytes":  14944198,
-    "updatedAt":  "2026-08-23T15:08:14Z"
+    "sha256":  "6df7c636e01401a3ac756b7aa3bb1156d3288254d76699aabfe0d757cee2b4f7",
+    "sizeBytes":  15165446,
+    "updatedAt":  "2026-08-23T22:50:00Z"
 }
