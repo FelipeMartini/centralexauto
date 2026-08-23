@@ -1,8 +1,8 @@
 {
-    "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/CentralEXAuto/main/apks/excentralsapo-ex.apk",
+    "apkUrl":  "https://raw.githubusercontent.com/swimapps/CentralEXAuto/main/excentralsapo-ex.apk",
     "versionCode":  568,
     "versionName":  "2.15.6",
-    "sha256":  "3b58e64e9bb5ea62ea1fb1eb2a2f3f8193d377ec933f10f44a14f7a21d84c4b9",
-    "sizeBytes":  14757533,
-    "updatedAt":  "2026-08-22T23:14:24Z"
+    "sha256":  "7f40bf4c2f9756eed19c4e25580b27ffdf2fed26d71819be40b8ec9bd47d1a68",
+    "sizeBytes":  14773997,
+    "updatedAt":  "2026-08-23T00:50:40Z"
 }
