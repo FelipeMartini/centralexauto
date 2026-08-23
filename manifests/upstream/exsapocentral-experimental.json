@@ -1,8 +1,8 @@
 {
-    "apkUrl": "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "versionCode": 584,
-    "versionName": "2.17.2",
-    "sha256": "c56aa6a524ec2bae07c55c9df1382f012af3003be8405c71e662758139d66724",
-    "sizeBytes": 14747818,
-    "updatedAt": "2026-08-23T14:17:06Z"
+    "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
+    "versionCode":  584,
+    "versionName":  "2.17.2",
+    "sha256":  "3ecb4e936cc5112a2cae6fd7bfb56365cdce3fec5d5de4e9a03fd50b3044eba9",
+    "sizeBytes":  14944114,
+    "updatedAt":  "2026-08-23T14:39:47Z"
 }
