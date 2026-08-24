@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo: VHAL window/door crack relief, recirculation guard, PiP câmera traseira na seta, AEB restore, travar portas com velocidade, sub-abas completas (Barra, Tela, Clima, Câmera), desktop status bar com odômetro de viagem e odômetro total.",
+    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo: VHAL window/door crack relief, recirculation guard, PiP câmera traseira na seta, AEB restore, travar portas com velocidade, sub-abas completas (Barra, Tela, Clima, Câmera, Apps, Atalhos, Config), desktop status bar com odômetro de viagem, odômetro total e ícone WiFi com tamanho harmonizado e clique nativo.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "df42b865fb979a682eb2b2b951d2431d0eca842244d5841659d122337b3256ea",
-    "sizeBytes":  15165446,
-    "updatedAt":  "2026-08-24T00:48:00Z"
+    "sha256":  "39eb482cc7c22a36c52f179aa6f5da1604417290f3450482c9d3b4f9fa10efda",
+    "sizeBytes":  15367093,
+    "updatedAt":  "2026-08-24T02:15:00Z"
 }

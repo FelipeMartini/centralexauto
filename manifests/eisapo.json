@@ -1,0 +1,9 @@
+{
+    "apkUrl": "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/EiSapo-platform-signed.apk",
+    "changelog": "Ei Sapo v1.0.0(1) autônomo assinado com chave de plataforma Geely: Assistente de voz offline Vosk, controle veicular CarPropertyManager/ECARX, floater ajustável e botão do volante.",
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "sha256": "f6061751adcf6435af1d6ae8249c140b83ac5ac79d7c53685524ae5814e3f3ab",
+    "sizeBytes": 22369614,
+    "updatedAt": "2026-08-24T02:14:00Z"
+}
