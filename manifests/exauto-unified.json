@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: SwcModeController integrado ao CentralWatchdogService para controle de botões de volante VHAL (mic, hold para cancelar Gemini/assistente de voz), QuickAccessFloaterService com gestos de 3 dedos, goToLastApp e acionamento de câmera em PiP, HomeFloatingWidgetsService com monitor de CPU dinâmico (parseTopApps, killApp, ticker em tempo real) e arrasto com persistência de posição, MediaCenterBridge com suporte ECARX/Cluster por reflexão, BrightnessMemory para persistência Dia/Noite, MessageManager para avisos remotos e push notifications, RvcBlackBg para correção de câmera traseira e sincronização contínua de modos de condução no engate em D.",
+    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: CentralWatchdogService com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow) integrado a Modo Oficina e BackgroundKeepAliveStore, SwcModeController para botões de volante VHAL, QuickAccessFloaterService com gestos de 3 dedos e troca rápida de apps, HomeFloatingWidgetsService com monitor de CPU dinâmico (parseTopApps, killApp) e arrasto com persistência de posição, MediaCenterBridge por reflexão e sincronização de modos de condução no engate em D.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "f9edd8638f7f9439acd5e174dd74ba1e632f81c50b246099b6e9eb56de99596a",
-    "sizeBytes":  15537529,
-    "updatedAt":  "2026-08-24T07:55:00Z"
+    "sha256":  "e5162c62883b84030dcedfabca26fae412deba31d669e73f1cbfb7fc367865a2",
+    "sizeBytes":  15539841,
+    "updatedAt":  "2026-08-24T08:26:00Z"
 }
