@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral.apk",
-    "changelog":  "Versão Estável EXAuto Central v2.17.2(584): Projeto padronizado formalmente como EXAutoCentral, paridade multilíngue 100% completa (1165 strings em PT, EN, ES, RU, VI), Watchdog com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow), Modo Oficina autônomo com restauração por 5 toques no canto inferior esquerdo, SwcModeController para botões de volante VHAL, QuickAccess com gestos de 3 dedos, monitor dinâmico de CPU, FloaterSupport e sincronização de modos de condução no engate em D.",
+    "changelog":  "VersÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o EstÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¡vel EXAuto Central v2.17.2(584): Projeto padronizado formalmente como EXAutoCentral, paridade multilÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­ngue 100% completa (1165 strings em PT, EN, ES, RU, VI), Watchdog com loop keepAlive contÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â­nuo (oom_score_adj -900, deviceidle whitelist, appops background allow), Modo Oficina autÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â´nomo com restauraÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o por 5 toques no canto inferior esquerdo, SwcModeController para botÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Âµes de volante VHAL, QuickAccess com gestos de 3 dedos, monitor dinÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¢mico de CPU, FloaterSupport e sincronizaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o de modos de conduÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o no engate em D.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "f278a1bb676fd761228e24a5899a3a41d1b15eec89de426105bca49bbf6ce94b",
-    "sizeBytes":  15226985,
-    "updatedAt":  "2026-08-24T10:12:00Z"
+    "sha256":  "d521eebe56a26bf1fe94bc6bb64114f3f89e380dda1cd1d877fa99208d648d3d",
+    "sizeBytes":  15192374,
+    "updatedAt":  "2026-08-24T17:52:05Z"
 }

@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral-experimental.apk",
-    "changelog":  "Versão Experimental EXAuto Central v2.17.2(584): Novas funcionalidades antecipadas com monitor em tempo real de CPU (parseTopApps/killApp), gestos verticais e horizontais de 2 e 3 dedos, Modo Oficina avançado, sincronização VHAL e integração total ao Geely Geometry E / EX3.",
+    "changelog":  "VersÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o Experimental EXAuto Central v2.17.2(584): Novas funcionalidades antecipadas com monitor em tempo real de CPU (parseTopApps/killApp), gestos verticais e horizontais de 2 e 3 dedos, Modo Oficina avanÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ado, sincronizaÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o VHAL e integraÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o total ao Geely Geometry E / EX3.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "f278a1bb676fd761228e24a5899a3a41d1b15eec89de426105bca49bbf6ce94b",
-    "sizeBytes":  15226985,
-    "updatedAt":  "2026-08-24T10:12:00Z"
+    "sha256":  "5bb715f609bb2dda4c780e4d7ffb7a410fb52efe9afe35b1391fcc36c0fad00b",
+    "sizeBytes":  15192374,
+    "updatedAt":  "2026-08-24T17:52:05Z"
 }
