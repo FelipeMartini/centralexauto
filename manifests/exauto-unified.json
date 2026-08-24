@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: CentralWatchdogService com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow) integrado a Modo Oficina e BackgroundKeepAliveStore, SwcModeController para botões de volante VHAL, QuickAccessFloaterService com gestos de 3 dedos e troca rápida de apps, HomeFloatingWidgetsService com monitor de CPU dinâmico (parseTopApps, killApp) e arrasto com persistência de posição, MediaCenterBridge por reflexão e sincronização de modos de condução no engate em D.",
+    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: CentralWatchdogService com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow) integrado a Modo Oficina e BackgroundKeepAliveStore, EngineManager com encerramento total de overlays/bridges ao alternar para Standby/Sapo, ModoOficinaTriggerService alinhado no canto inferior esquerdo (BOTTOM_START), SwcModeController para botões de volante VHAL, QuickAccessFloaterService com gestos de 3 dedos e troca rápida de apps, HomeFloatingWidgetsService com monitor de CPU dinâmico (parseTopApps, killApp) e sincronização de modos de condução no engate em D.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "e5162c62883b84030dcedfabca26fae412deba31d669e73f1cbfb7fc367865a2",
-    "sizeBytes":  15539841,
-    "updatedAt":  "2026-08-24T08:26:00Z"
+    "sha256":  "9151b98792da1989f137f8088fb962ba24bc59566f75a9db9d7d360e82667866",
+    "sizeBytes":  15300397,
+    "updatedAt":  "2026-08-24T08:41:00Z"
 }
