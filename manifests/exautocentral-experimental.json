@@ -3,7 +3,7 @@
     "changelog":  "Versão Experimental EXAuto Central v2.17.2(584): Novas funcionalidades antecipadas com monitor em tempo real de CPU (parseTopApps/killApp), gestos verticais e horizontais de 2 e 3 dedos, Modo Oficina avançado, sincronização VHAL e integração total ao Geely Geometry E / EX3.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "12021b9f6a0e6d06aaee6b0a9f7d81b51f75ec3d4714ee279a47e7ca512b9a30",
-    "sizeBytes":  15226869,
-    "updatedAt":  "2026-08-24T09:18:00Z"
+    "sha256":  "7432e2e80248b94136f2980bdf5bcfe7a328469a29bcfe7a678e2288f6ae2047",
+    "sizeBytes":  15226709,
+    "updatedAt":  "2026-08-24T09:24:00Z"
 }
