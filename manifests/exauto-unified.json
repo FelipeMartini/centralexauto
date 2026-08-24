@@ -1,9 +1,0 @@
-{
-    "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exauto-unified.apk",
-    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: CentralWatchdogService com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow) integrado a Modo Oficina autônomo, EngineManager com encerramento total de overlays/bridges ao alternar para Standby/Sapo, ModoOficinaTriggerService alinhado no canto inferior esquerdo (BOTTOM_START), SwcModeController para botões de volante VHAL, QuickAccessFloaterService com gestos de 3 dedos e troca rápida de apps, HomeFloatingWidgetsService com monitor de CPU dinâmico (parseTopApps, killApp) e sincronização de modos de condução no engate em D.",
-    "versionCode":  584,
-    "versionName":  "2.17.2",
-    "sha256":  "7c1ee943d6b1286713761f8a445bd9f601234d856a356766422c11e01d1e7b5b",
-    "sizeBytes":  15226869,
-    "updatedAt":  "2026-08-24T09:12:00Z"
-}
