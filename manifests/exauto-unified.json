@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: MessageManager para recebimento de avisos e notificações push, RvcBlackBg para correção de fundo preto na ré, CentralWatchdogService com sincronização de modos de condução no engate de marcha D (driveRegenGearPoll), abertura e fechamento suave de câmera em PiP por acionamento de seta, monitor de conectividade de rede para checagem de mensagens, proteção de AEB, alívio de pressão nas portas, servidor PhoneSync completo e widgets flutuantes da Home.",
+    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: MediaCenterBridge com suporte por reflexão ao ECARX SDK do cluster/painel e MediaSession, BrightnessMemory para persistência de brilho Dia/Noite, MessageManager para avisos remotos e push notifications, RvcBlackBg para correção de câmera traseira, sincronização contínua de modos de condução no engate em D (driveRegenGearPoll), abertura de câmera PiP por acionamento de seta e proteção de AEB.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "5f86bcd515c09d80b71c8142cb4510de462b3b6850ebf4bb3e5a7fb7addb080e",
-    "sizeBytes":  15413345,
-    "updatedAt":  "2026-08-24T07:21:00Z"
+    "sha256":  "abe543a66eced5287e10ef28a27e8869020c66f784312e6c1d5071ddd40dded1",
+    "sizeBytes":  15650157,
+    "updatedAt":  "2026-08-24T07:28:00Z"
 }
