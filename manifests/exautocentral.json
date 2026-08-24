@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral.apk",
-    "changelog":  "Versao EX Auto Central v2.17.3(585): Build estavel otimizado, controle nativo FlymeAuto e nome oficial padronizado.",
-    "versionCode":  585,
-    "versionName":  "2.17.3",
-    "sha256":  "95263d43f81a4c8c7aee00d9fb0efb94f2518ee9c0d798127b84205a537f4850",
+    "changelog":  "Versao EX Auto Central v2.17.4(586): Otimizacao de sockets TCP (TcpNoDelay), campos de telemetria atomicos e servidor VHAL HTTP resiliente.",
+    "versionCode":  586,
+    "versionName":  "2.17.4",
+    "sha256":  "55c27cc0e7abef914aae62f0b782a09ca482d045e108dae15469b860d7097a5c",
     "sizeBytes":  15192374,
-    "updatedAt":  "2026-08-24T20:47:18Z"
+    "updatedAt":  "2026-08-24T20:59:48Z"
 }

@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral-experimental.apk",
-    "changelog":  "Versao EX Auto Central v2.17.3(585): Otimizacao de consumo de recursos, Watchdog resiliente, integracao FlymeAuto e nome oficial padronizado.",
-    "versionCode":  585,
-    "versionName":  "2.17.3",
-    "sha256":  "d1dde6de53900616576f18af3c7c04ef1e65d22c97d75288a8f55868fd46c84f",
+    "changelog":  "Versao EX Auto Central v2.17.4(586): Otimizacao de sockets TCP (TcpNoDelay), campos de telemetria atomicos e servidor VHAL HTTP resiliente.",
+    "versionCode":  586,
+    "versionName":  "2.17.4",
+    "sha256":  "3b47b9e88b5267cd8ea742992d65ae6baa2b5844d6074b1517c6f0a926302860",
     "sizeBytes":  15192374,
-    "updatedAt":  "2026-08-24T20:47:18Z"
+    "updatedAt":  "2026-08-24T20:59:48Z"
 }
