@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/app-privileged-debug.apk",
-    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo: QuickAccessFloaterService aprimorado com painel retrátil de Drive & Regen, atalhos dinâmicos (Wi-Fi, Split Screen, App PiP, Blackout, Fechar Apps com Whitelist e Favoritos), suporte a gestos de dois dedos para ventilação e temperatura, WifiAutoService/BootReceiver/BluetoothCompat integrados para auto-conexão WiFi via Bluetooth pareado, VHAL window/door crack relief, recirculation guard, PiP câmera traseira na seta, AEB restore, travar portas com velocidade, sub-abas completas (Barra, Tela, Clima, Câmera, Apps, Atalhos, Config), desktop status bar com odômetro de viagem, odômetro total e ícone WiFi com tamanho harmonizado e clique nativo.",
+    "changelog":  "Build unificada v2.17.2(584) com paridade total Sapo 584: MessageManager para recebimento de avisos e notificações push, RvcBlackBg para correção de fundo preto na ré, CentralWatchdogService com sincronização de modos de condução no engate de marcha D (driveRegenGearPoll), abertura e fechamento suave de câmera em PiP por acionamento de seta, monitor de conectividade de rede para checagem de mensagens, proteção de AEB, alívio de pressão nas portas, servidor PhoneSync completo e widgets flutuantes da Home.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "6a5978645de397e5cbaceb010728f3a9c31373f7b0cab5480a4b5cca3e25e966",
-    "sizeBytes":  15395481,
-    "updatedAt":  "2026-08-24T03:27:00Z"
+    "sha256":  "5f86bcd515c09d80b71c8142cb4510de462b3b6850ebf4bb3e5a7fb7addb080e",
+    "sizeBytes":  15413345,
+    "updatedAt":  "2026-08-24T07:21:00Z"
 }
