@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral.apk",
-    "changelog":  "Versão Estável EXAuto Central v2.17.2(584): Paridade multilíngue 100% completa (1165 strings em PT, EN, ES, RU, VI), Watchdog com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow), Modo Oficina autônomo com restauração por 5 toques no canto inferior esquerdo, SwcModeController para botões de volante VHAL, QuickAccess com gestos de 3 dedos, monitor dinâmico de CPU e sincronização de modos de condução no engate em D.",
+    "changelog":  "Versão Estável EXAuto Central v2.17.2(584): Projeto padronizado formalmente como EXAutoCentral, paridade multilíngue 100% completa (1165 strings em PT, EN, ES, RU, VI), Watchdog com loop keepAlive contínuo (oom_score_adj -900, deviceidle whitelist, appops background allow), Modo Oficina autônomo com restauração por 5 toques no canto inferior esquerdo, SwcModeController para botões de volante VHAL, QuickAccess com gestos de 3 dedos, monitor dinâmico de CPU e sincronização de modos de condução no engate em D.",
     "versionCode":  584,
     "versionName":  "2.17.2",
-    "sha256":  "f903ce7aaedcae52e8b17e464d4db5cdc337dfa3449ca8e0642f41df99f759ba",
-    "sizeBytes":  17115837,
-    "updatedAt":  "2026-08-24T09:38:00Z"
+    "sha256":  "85f5b87b79642bb2d51aa40542442a639428552d1016b137c86e70bdab8f0be2",
+    "sizeBytes":  15089369,
+    "updatedAt":  "2026-08-24T09:41:00Z"
 }
