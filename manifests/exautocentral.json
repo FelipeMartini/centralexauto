@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral.apk",
-    "changelog":  "Versao EX Auto Central v2.17.5(587): Verificador por PID duplo (deteccao de crash-loop vs estabilidade real), reboot nativo via PowerManager e otimizacoes de IPC.",
-    "versionCode":  587,
-    "versionName":  "2.17.5",
-    "sha256":  "af379bcc8d29c7fd138a8014ecdae85f3d35098a39bd419077fd480ab53bd60b",
+    "changelog":  "Versao EX Auto Central v2.17.6(588): Ativacao do loop de auto-update 100% autonomo no CentralWatchdogService (checagem a cada 60s) e instalacao desacoplada com setsid.",
+    "versionCode":  588,
+    "versionName":  "2.17.6",
+    "sha256":  "5b8258110be6c43ceb793e2f79f557f02b948f1800c44d8ac94eac10b00d85c7",
     "sizeBytes":  15196470,
-    "updatedAt":  "2026-08-24T21:10:40Z"
+    "updatedAt":  "2026-08-24T21:23:16Z"
 }
