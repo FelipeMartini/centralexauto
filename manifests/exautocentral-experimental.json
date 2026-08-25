@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral-experimental.apk",
-    "changelog":  "Versao EX Auto Central v2.17.8(590): Timeouts HTTP resilientes de 20s para redes veiculares e auto-update 100% autonomo.",
-    "versionCode":  590,
-    "versionName":  "2.17.8",
-    "sha256":  "19c42471aac079cf9efbcc6731dc0a3d5a6532b1fc9c2a3965496ddc7baef4f1",
+    "changelog":  "Versao EX Auto Central v2.17.9(591): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
+    "versionCode":  591,
+    "versionName":  "2.17.9",
+    "sha256":  "2c648d70a03d9cee9a726c9e257ed70b1070565f9b5ec8c86f6611cf901ee794",
     "sizeBytes":  15196470,
-    "updatedAt":  "2026-08-24T21:29:14Z"
+    "updatedAt":  "2026-08-24T21:37:39Z"
 }
