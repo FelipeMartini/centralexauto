@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral-experimental.apk",
-    "changelog":  "Versao EX Auto Central v2.17.6(588): Ativacao do loop de auto-update 100% autonomo no CentralWatchdogService (checagem a cada 60s) e instalacao desacoplada com setsid.",
-    "versionCode":  588,
-    "versionName":  "2.17.6",
-    "sha256":  "c8cd7ec058267346434b6fa22012003a7d89de6a2b639d8687c6bc11ec954c0a",
+    "changelog":  "Versao EX Auto Central v2.17.7(589): Auto-update 100% autonomo sem intervencao do usuario em background com retry exponencial.",
+    "versionCode":  589,
+    "versionName":  "2.17.7",
+    "sha256":  "9187b5caeb69070a8886827be2bed97cd76bf3be5a2533f2fb8a0ccf6e653286",
     "sizeBytes":  15196470,
-    "updatedAt":  "2026-08-24T21:23:16Z"
+    "updatedAt":  "2026-08-24T21:24:59Z"
 }
