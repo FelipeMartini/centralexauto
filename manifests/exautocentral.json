@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral.apk",
-    "changelog":  "Versao EX Auto Central v2.18.4(596): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
-    "versionCode":  596,
-    "versionName":  "2.18.4",
-    "sha256":  "f845f93b7441068c19d3840d3fc9cc76b48eb0903a7b974a3807252ad4afb6f6",
+    "changelog":  "Versao EX Auto Central v2.18.5(597): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
+    "versionCode":  597,
+    "versionName":  "2.18.5",
+    "sha256":  "b5dbd36f8b5837005dc086ad775995e4c4329e25d217bd1089b2f88cc869e3f0",
     "sizeBytes":  15196470,
-    "updatedAt":  "2026-08-24T21:54:48Z"
+    "updatedAt":  "2026-08-24T21:55:55Z"
 }
