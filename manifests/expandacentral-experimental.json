@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral-experimental.apk",
-    "changelog":  "Versao EX Auto Central v1.3.0.3(605): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
-    "versionCode":  605,
-    "versionName":  "1.3.0.3",
+    "changelog":  "Versao EX Auto Central v1.3.0.4(606): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
+    "versionCode":  606,
+    "versionName":  "1.3.0.4",
     "sha256":  "eff6826013fb2bdf5c23055fa22a1b571c647adc3315ee87ad75369e23b2fe45",
     "sizeBytes":  15112679,
-    "updatedAt":  "2026-08-25T16:58:41Z"
+    "updatedAt":  "2026-08-25T17:21:55Z"
 }
