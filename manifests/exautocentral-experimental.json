@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/exautocentral-experimental.apk",
-    "changelog":  "Versao EX Auto Central v2.17.4(586): Otimizacao de sockets TCP (TcpNoDelay), campos de telemetria atomicos e servidor VHAL HTTP resiliente.",
-    "versionCode":  586,
-    "versionName":  "2.17.4",
-    "sha256":  "3b47b9e88b5267cd8ea742992d65ae6baa2b5844d6074b1517c6f0a926302860",
-    "sizeBytes":  15192374,
-    "updatedAt":  "2026-08-24T20:59:48Z"
+    "changelog":  "Versao EX Auto Central v2.17.5(587): Verificador por PID duplo (deteccao de crash-loop vs estabilidade real), reboot nativo via PowerManager e otimizacoes de IPC.",
+    "versionCode":  587,
+    "versionName":  "2.17.5",
+    "sha256":  "3c889a7fe51ba75bb7cf913eff713f9a7b2160631001eb6ab0cefd41689aa381",
+    "sizeBytes":  15196470,
+    "updatedAt":  "2026-08-24T21:10:40Z"
 }
