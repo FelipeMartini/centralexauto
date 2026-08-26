@@ -1,9 +1,9 @@
 {
     "apkUrl":  "https://raw.githubusercontent.com/FelipeMartini/centralexauto/main/apks/expandacentral-experimental.apk",
-    "changelog":  "Versao EXPandaCentral v1.3.0.13(615): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
-    "versionCode":  615,
-    "versionName":  "1.3.0.13",
-    "sha256":  "27911672a4f21cfcfee4aebff232e42a92edc5ad3b20f627abf37d7da1a54aad",
-    "sizeBytes":  19966841,
-    "updatedAt":  "2026-08-25T21:19:40Z"
+    "changelog":  "Versao EXPandaCentral v1.3.0.14(616): Auto-update 100% autonomo sem intervencao do usuario em background a cada 30s.",
+    "versionCode":  616,
+    "versionName":  "1.3.0.14",
+    "sha256":  "db93009c29c9a2d38fc374b9311c1dfbbf0727916c28dc08ce432ebf3f14d4a8",
+    "sizeBytes":  17494705,
+    "updatedAt":  "2026-08-25T21:32:49Z"
 }
